@@ -1,4 +1,4 @@
-# Peer-to-Peer Google Drive
+# Peer-to-Peer Cloud Storage (Sync.com/pCloud design)
 
 #Peer Priority Support (Neighbour Priority Peers Determination Algorithm) 
 
